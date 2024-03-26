@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "level": "junior",
+    "status": "free"
+  },
+  {
+    "id": 2,
+    "name": "John Doe2",
+    "level": "junior",
+    "status": "free"
+  },
+  {
+    "id": 3,
+    "name": "Jane Smith",
+    "level": "senior",
+    "status": "free"
+  },
+  {
+    "id": 4,
+    "name": "Jane Smith2",
+    "level": "senior",
+    "status": "free"
+  },
+  {
+    "id": 6,
+    "name": "Michael Johnson2",
+    "level": "manager",
+    "status": "free"
+  },
+  {
+    "id": 7,
+    "name": "Emily Brown",
+    "level": "director",
+    "status": "free"
+  }
+]
